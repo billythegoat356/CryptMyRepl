@@ -19,7 +19,7 @@ Any user that want to see files of the repl will be blocked by the cryption.
 ## Usage
 
 ### Setup
-To setup **CryptMyRepl**, you need to lauch **setup.py** as administrator in a command line. Make shure that the directory printed is in your Python modules path.
+To setup **CryptMyRepl**, you need to lauch **setup.py** as administrator in a command line. Make sure that the directory printed is in your Python modules path.
 ```batch
 python "./setup.py"
 ```
